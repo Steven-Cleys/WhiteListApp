@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Steven\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.15\9093a362d18c5f81f58e49d86dece57d9b6e1cb7\library-1.0.15.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="C:\Users\Steven\Google_Drive\AndroidStudioProjects\Digipolis\app\build\intermediates\pre-dexed\debug\library-1.0.15-133a15a555e3041d3c94e74bd7258f92395e8c07.jar" />
+    </item>
+
+</items>

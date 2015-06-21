@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Telefoon</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">SimpleDialer</string>
+    <string name="main_label">My Friends</string>
+    <string name="title">Telefoonlijst</string>
+    <string name="JSONpref">JSONpref</string>
+    <string name="out_wrong_number">U kunt niet bellen naar dit nummer</string>
+    <string-array name="menu">
+        <item>Add as favorite</item>
+        <item>Remove as favorite</item>
+        <item>Launch call</item>
+    </string-array>
+
+</resources>
